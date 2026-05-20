@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Talia.
 - 👀 I’m interested in Design Systems and optimising the workflows between designers and developers.
-- 🌱 I’m currently a UX lead in GovTech, working in Whole-of-Government Application Analytics (WOGAA).
+- 🌱 I’m currently a design lead in GovTech, working on Whole-of-Government Application Analytics (WOGAA) and part of the Info Services Programme in GDP.
 - 📫 How to reach me @ my personal email: designer.talia at gmail.com.
 
 <!---
